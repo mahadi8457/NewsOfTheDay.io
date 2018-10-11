@@ -1,5 +1,6 @@
 # NewsOfTheDay.io
 by #Mahadi8457
+
 This a simple jQuery apps that fetch data and let user to make tweet of them.
 
 #Interface
